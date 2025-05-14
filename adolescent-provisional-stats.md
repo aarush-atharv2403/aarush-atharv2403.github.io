@@ -1,4 +1,4 @@
-# Adolescent Challenges: Data Representation [PROVISIONAL]
+# Adolescent Challenges: Data Representation
 
 ## Key Points
 
