@@ -1,3 +1,9 @@
+<style>
+h1 > a[href*="aarush-atharv2403"] {
+    display: none !important;
+}
+</style>
+
 # Adolescent Challenges: Data Representation
 
 ## Key Points
