@@ -325,5 +325,3 @@ The presence of minerals like potassium and iron contributes to the nutritional 
 10. **FSSAI Manual of Honey Analysis** - Food Safety and Standards Authority of India
 
 ---
-
-**Note:** This project report follows the CBSE guidelines for investigatory projects and incorporates standard analytical procedures used in food chemistry laboratories. All experimental procedures should be performed under proper supervision with adequate safety measures.
