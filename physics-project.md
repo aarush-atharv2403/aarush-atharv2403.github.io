@@ -1,3 +1,9 @@
+<style>
+h1 > a[href*="aarush-atharv2403"] {
+    display: none !important;
+}
+</style>
+
 # Physics CBSE Project File: Piezoelectric Floor Tiles
 
 ---
