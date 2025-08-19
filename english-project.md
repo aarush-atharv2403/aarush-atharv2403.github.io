@@ -19,9 +19,9 @@ h1 > a[href*="aarush-atharv2403"] {
 ## Index
 | S. No. | Contents                                                                 |
 |--------|--------------------------------------------------------------------------|
-| 1.     | Acknowledgement                                                          |
-| 2.     | Introduction                                                             |
-| 3.     | Objectives of the Study                                                  |
+| 1. | Acknowledgement |
+| 2. | Introduction |
+| 3. | Objectives of the Study                                                  |
 | 4.     | Research Methodology                                                     |
 | 5.     | Theoretical Background (Based on 'Lost Spring')                          |
 | 6.     | Case Studies & Real-life Examples                                        |
