@@ -19,9 +19,9 @@ h1 > a[href*="aarush-atharv2403"] {
 ## Index
 | S. No. | Contents                                                                 |
 |--------|--------------------------------------------------------------------------|
-| 1. | Acknowledgement |
-| 2. | Introduction |
-| 3. | Objectives of the Study                                                  |
+| 1.     | Acknowledgement                                                          |
+| 2.     | Introduction                                                             |
+| 3.     | Objectives of the Study                                                  |
 | 4.     | Research Methodology                                                     |
 | 5.     | Theoretical Background (Based on 'Lost Spring')                          |
 | 6.     | Case Studies & Real-life Examples                                        |
@@ -31,7 +31,6 @@ h1 > a[href*="aarush-atharv2403"] {
 | 10.    | Suggestions and Recommendations                                          |
 | 11.    | Conclusion                                                               |
 | 12.    | Bibliography                                                             |
-
 ---
 
 ## 1. Acknowledgement
@@ -100,11 +99,11 @@ Throughout ‘Lost Spring’, Anees Jung employs vivid imagery and personal inte
 ## 8. Impact of Education on Children and Society
 | Impact Area                | Without Education                        | With Education                                |
 |----------------------------|------------------------------------------|-----------------------------------------------|
-| Economic                  | Perpetuates poverty                      | Improves job prospects, raised incomes       |
-| Health                    | Prone to illness, injury                 | Better health and hygiene awareness           |
-| Social Mobility           | Trapped in unskilled/labour roles        | Enhanced upward mobility                      |
-| Self-esteem               | Low due to exploitation                  | Boosted through achievements                  |
-| National Development      | Hinders growth, increases dependency     | Develops skilled workforce, boosts GDP        |
+| Economic                   | Perpetuates poverty                      | Improves job prospects, raised incomes        |
+| Health                     | Prone to illness, injury                 | Better health and hygiene awareness           |
+| Social Mobility            | Trapped in unskilled/labour roles        | Enhanced upward mobility                      |
+| Self-esteem                | Low due to exploitation                  | Boosted through achievements                  |
+| National Development       | Hinders growth, increases dependency     | Develops skilled workforce, boosts GDP        |
 
 ---
 
