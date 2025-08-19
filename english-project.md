@@ -17,6 +17,7 @@ h1 > a[href*="aarush-atharv2403"] {
 ---
 
 ## Index
+
 | S. No. | Contents                                                                 |
 |--------|--------------------------------------------------------------------------|
 | 1.     | Acknowledgement                                                          |
@@ -31,6 +32,7 @@ h1 > a[href*="aarush-atharv2403"] {
 | 10.    | Suggestions and Recommendations                                          |
 | 11.    | Conclusion                                                               |
 | 12.    | Bibliography                                                             |
+
 ---
 
 ## 1. Acknowledgement
@@ -97,6 +99,7 @@ Throughout ‘Lost Spring’, Anees Jung employs vivid imagery and personal inte
 ---
 
 ## 8. Impact of Education on Children and Society
+
 | Impact Area                | Without Education                        | With Education                                |
 |----------------------------|------------------------------------------|-----------------------------------------------|
 | Economic                   | Perpetuates poverty                      | Improves job prospects, raised incomes        |
