@@ -25,7 +25,7 @@ h1 > a[href*="aarush-atharv2403"] {
 | 4.     | Research Methodology                                                     |
 | 5.     | Theoretical Background (Based on 'Lost Spring')                          |
 | 6.     | Case Studies & Real-life Examples                                        |
-| 7.     | Analysis: Role of Education in Preventing Child Labour                   |
+| 7.     | Analysis                                                                 |
 | 8.     | Impact of Education on Children and Society                              |
 | 9.     | Government Policies, Laws and Initiatives                                |
 | 10.    | Suggestions and Recommendations                                          |
