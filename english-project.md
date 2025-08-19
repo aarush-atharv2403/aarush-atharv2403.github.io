@@ -87,7 +87,7 @@ Throughout ‘Lost Spring’, Anees Jung employs vivid imagery and personal inte
 
 ---
 
-## 7. Analysis: Role of Education in Preventing Child Labour
+## 7. Analysis
 **Education functions as both a shield and a sword**:
 - It equips children with knowledge, critical thinking, and skills, making them less likely to be exploited.
 - Educated children are more aware of their rights and less likely to be manipulated into exploitative labour.
